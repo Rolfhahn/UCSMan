@@ -1,4 +1,4 @@
-UCSMan - UniFi Controller as Windows Service Manager    Ver.: 1.2 / 2021-04-26
+UCSMan - UniFi Controller as Windows Service Manager    Ver.: 1.4 / 2024-04-15
 ------------------------------------------------------------------------------
 This procedure installs / removes UniFi Controller as Windows Service:
 
@@ -20,9 +20,8 @@ The script does not accept any params. It works only interactive.
 
       Before you use this script make sure you have this prerequisites:
       - Windows 10 (current Version)
-      - UniFi Network Controller=6.2.17+ f. Windows is installed.
-        Source: https://dl.ui.com/unifi/6.2.17-ceb3ba714d/UniFi-installer.exe
-      - Only JAVA 8.281 64Bit + is neccesary. Source: https://java.com/de/
+      - UniFi Network Application 8.1.113 f. Windows is installed.
+      - Only JAVA 17 Eclipse Temurin OpenJRE 64Bit is neccesary.
 ------------------------------------------------------------------------------
 Important:
 ----------
