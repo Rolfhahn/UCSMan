@@ -15,15 +15,11 @@ echo     java -jar lib\ace.jar uninstallsvc
 echo.
 echo  Requirements to successful use this script:
 echo       - Windows 10+ (current Version) We have tested: 10.0.19045.9291
-echo       - JAVA 17 Eclipse Temurin OpenJRE is neccesary from:
-echo         https://adoptium.net/de/temurin/releases/?os=windows&arch=x64&package
-echo         =jre&version=17
-echo       - UniFi Network Application 8.1.113 for Windows
-echo         from: https://www.ui.com/download/unifi
+echo       - JAVA 17 Eclipse Temurin OpenJRE is neccesary from: adoptum.net
+echo       - UniFi Network Application 8.1.113 for Windows is neccesary from
+echo         www.ui.com/download/unifi
 echo         Important: Set JAVA_HOME variable while installing java
 echo       - Start this batch with local administrator privileges
-echo  please read also: https://help.ui.com/hc/en-us/articles/205144550-Self-
-echo         Hosting-a-UniFi-Network-Server-as-a-Windows-Service-Advanced
 echo.
 :ProgramStart
 echo Please select Batch-Mode: 
